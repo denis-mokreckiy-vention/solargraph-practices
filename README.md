@@ -19,7 +19,8 @@ Solargraph extensions for different editors - https://github.com/castwide/solarg
 ```json
 "solargraph.formatting": true, // enable formating through rubocop
 "solargraph.transport": "external", // enable usage of external solargraph server. see below for details
-"solargraph.externalServer": { // external server settings. there're default ones
+// external server settings. there're default ones
+"solargraph.externalServer": {
   "host": "localhost",
   "port": 7658
 },
