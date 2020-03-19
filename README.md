@@ -4,7 +4,9 @@ My collection of Solargraph best practices and setup
 ## Useful links
 
 Solargraph site - https://solargraph.org/
+
 Solargraph github repo - https://github.com/castwide/solargraph
+
 Solargraph extensions for different editors - https://github.com/castwide/solargraph#using-solargraph
 
 ## Solargrap setup
@@ -64,5 +66,6 @@ Scans project for documentation changes and starts yard server
 
 ## Support
 
-I will try to keep this README up-to-date. Feel free to open issues or PRs.
+I will try to keep this README up-to-date.
+Feel free to open issues or PRs.
 Any feedback or support is welcome.
