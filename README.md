@@ -1,6 +1,12 @@
 # Solargraph Practices
 My collection of Solargraph best practices and setup
 
+## Useful links
+
+Solargraph site - https://solargraph.org/
+Solargraph github repo - https://github.com/castwide/solargraph
+Solargraph extensions for different editors - https://github.com/castwide/solargraph#using-solargraph
+
 ## Solargrap setup
 
 ### Visual Studio Code
